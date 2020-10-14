@@ -11,7 +11,7 @@ You have probably seen the [PETTHEDOGE](https://betterttv.com/emotes/5f1c26426f3
 - Python 3
 - Pillow
 
-## Instalation
+## Installation
 
 ```
 git clone https://github.com/chamik/petthex.git
