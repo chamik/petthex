@@ -27,3 +27,7 @@ cd petthex
 ``
 
 Again, *very easy*
+
+### Alternative
+
+If you don't understand this guide or you just don't want to run this locally, you can use the Google Collab version made by [nklapste](https://github.com/nklapste) available [here](https://colab.research.google.com/drive/1xejUjlPtmKxFhYUxUjYKrIk5VEV2gnx6?usp=sharing).
